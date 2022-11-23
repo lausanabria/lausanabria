@@ -11,6 +11,7 @@
   <a href="" ><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="" ><img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="" ><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="" ><img src="https://img.shields.io/static/v1?style=for-the-badge&message=UiPath&color=F05032&logoColor=FFFFFF&label=" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="" ><img src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="" ><img src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="" ><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -19,7 +20,7 @@
 </p>
   
   <hr>
-<p align='center'>Other languages in desktop level</p>
+<p align='center'>Other languages</p>
  
 <p align='center'>
   <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label="/
