@@ -3,7 +3,7 @@
 
 <h3 align='center'>Hi there  👋  I'm Laura Sanabria</h3>
 
-<p align='center'> Fullstack software developer, I have experience developing in technologies like React, NodeJS, Angular, Go and databases like SQL and MongoDB. </p>
+<p align='center'> Software engineer, I have experience developing in technologies like React, NodeJS, Angular, Go and databases like SQL and MongoDB. </p>
 <hr>
 <p align='center'>Principal languages and tools</p>
 
